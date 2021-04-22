@@ -1,0 +1,5 @@
+gtts
+numpy
+amsync
+fuzzywuzzy
+python-Levenshtein
